@@ -4,21 +4,34 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/background_btn.xml" value="0.1845" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/background_splashscreen.xml" value="0.155" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/bg.xml" value="0.1165" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/bg_dish.xml" value="0.1545" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/bg_right.xml" value="0.1545" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/bottom_layout.xml" value="0.1515" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/circle_maroon.xml" value="0.1515" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/editext.xml" value="0.1845" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/edittext_bg.xml" value="0.1845" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/ic_home.xml" value="0.1535" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/item_selector.xml" value="0.1535" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/password_bg.xml" value="0.1845" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/rectangle_stroke.xml" value="0.1515" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/round_corner.xml" value="0.1535" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/drawable/shape.xml" value="0.2115" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/font/.xml" value="0.234375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/font/cheese.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/font/sofia.xml" value="0.234375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/font/yummy.xml" value="0.234375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/_ksp_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/activity_lcar_menus.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/all_day_breakfast_meal.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/card_product.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_cart.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_login.xml" value="0.22" />
-        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_order.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_signup.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/landing_page.xml" value="0.22" />
@@ -26,9 +39,16 @@
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/login_pag.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/login_page.xml" value="0.25" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/login_tab_frag.xml" value="0.18" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/main_category.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/main_navigation.xml" value="0.22" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/layout/signup_tab_frag.xml" value="0.22" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/MobiServe/app/src/main/res/menu/item_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/activity_lcar_menus.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/all_day_breakfast_meal.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/card_product.xml" value="0.25" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/fragment_order.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vende/AndroidStudioProjects/MobiServe/app/src/main/res/layout/main_navigation.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
