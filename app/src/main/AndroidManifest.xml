@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.thesis.mobiserve">
 
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -12,7 +14,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MobiServe"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
+        <activity
+            android:name=".cart_activity"
+            android:exported="false" />
+        <activity
+            android:name=".All_Day_Breakfast_Meal"
+            android:exported="false" />
+        <activity
+            android:name=".Main_Category"
+            android:exported="false" />
+        <activity
+            android:name=".LCAR_Menus"
+            android:exported="false" />
+        <activity
+            android:name=".KSP_Menu"
+            android:exported="false" />
         <activity
             android:name=".main_navigation"
             android:exported="false" />
@@ -20,8 +38,9 @@
             android:name=".loginpage"
             android:exported="false" />
         <activity
-            android:name=".splashscreen"
-            android:exported="false" />
+            android:name=".Splashscreen"
+            android:exported="true"
+            android:theme="@style/Splashscreen" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
